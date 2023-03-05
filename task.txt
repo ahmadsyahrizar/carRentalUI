@@ -1,0 +1,11 @@
+# Binar Landing Page Simulation
+
+- Create folder CarRental UI
+- implement folder structure as exampled
+- create landing page as shown in **Figma** as a simulation before we touch the challenge.
+- Use the knowledge we have already learned, HTML, CSS, Bootstrap, Git, Terminal, Shell, Web Layout, Responsive Design, ETC!
+- Push your code to Git Repository and share your Git Link to me!
+- If we have time, maybe some of you at the end of this chapter can show the result to all of us 😁
+- Google if you need, it's ok!
+
+ps: Don’t hesitate to ask, don't be afraid to fail, we're learning together, **Have Fun**!

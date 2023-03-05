@@ -1,0 +1,23 @@
+.header{
+    justify-content: space-between;
+      
+  }
+.navbar-nav{
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  }
+
+
+.custom-brand{
+      background-color: blue;
+      width: 100px;
+      height: 34px;
+  }
+.tes{
+      width: 100vw;
+      display: flex;
+      justify-content: space-between;
+  }
